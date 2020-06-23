@@ -1,0 +1,1 @@
+The Protocol Analyser accepts the name of the file of a PCAP file and reads its contents using scapy. It iterates over all layers of each packet and displays the total count in a table which is built using tkinter library.
